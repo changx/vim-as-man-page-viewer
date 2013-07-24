@@ -24,3 +24,6 @@ hi manSubSection term=underline cterm=underline gui=underline ctermfg=green guif
 
 set ts=8
 set nonu
+nmap q :quit<CR>
+nmap <C-j> <C-f>
+nmap <C-k> <C-b>
